@@ -1,3 +1,4 @@
 {
-  "workspaceFolder":"/home" 
+  "image": "ubuntu",
+  "workspaceFolder": "/home" 
 }
